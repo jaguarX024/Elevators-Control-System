@@ -1,4 +1,4 @@
-# ElevatorsProject
+# Elevators Control System
 This project implements a basic centralized elevator control system in C++.
 
 **Classes:**
